@@ -13,4 +13,4 @@ and [consoles](https://docs.godotengine.org/en/latest/tutorials/platform/console
 
 ## The my added and fixed
 
-** Added java openjdk11 **
+**Added java openjdk11**
